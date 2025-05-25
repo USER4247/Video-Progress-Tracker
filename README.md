@@ -113,6 +113,10 @@ Collection (userId)
     ```
     nodemon server.js
     ```
+    or
+    ```
+    node server.js
+    ```
         
   - under frontend directory terminal , run the following commands
       ```

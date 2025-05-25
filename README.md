@@ -125,6 +125,10 @@ Collection (userId)
 
 ## Thats'it 
 The demo has a widget named "VideoPlayerWithProgress" which is responsible for state management of session and showing progression of video lecture !
+![Screenshot](https://github.com/USER4247/Video-Progress-Tracker/blob/main/images/Screenshot%202025-05-25%20043849.png)
+
+## Additional Note 
+You can change Video and add more videos by adding new {key:value} pairs to `videoStore` map inside `server.js` . here `key denotes unique video uid and value denotes the url` . You can simulate new user by accessing  `user.json` inside `frontend/public` directory !
 
 
 
